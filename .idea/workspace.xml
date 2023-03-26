@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8d6d36a-ea32-4fc2-88d9-7de5c6b73b00" name="Changes" comment="">
+    <list default="true" id="a8d6d36a-ea32-4fc2-88d9-7de5c6b73b00" name="Changes" comment="Normalization of inputs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tomorrow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tomorrow.ipynb" afterDir="false" />
     </list>
@@ -82,8 +82,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679772797545</updated>
-      <workItem from="1679838304342" duration="5846000" />
+      <workItem from="1679838304342" duration="7242000" />
     </task>
+    <task id="LOCAL-00001" summary="Normalization of inputs">
+      <created>1679844236890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679844236890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Normalization of inputs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Normalization of inputs" />
   </component>
 </project>
