@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8d6d36a-ea32-4fc2-88d9-7de5c6b73b00" name="Changes" comment="Normalization of inputs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tomorrow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tomorrow.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679772797545</updated>
-      <workItem from="1679838304342" duration="7242000" />
+      <workItem from="1679838304342" duration="7646000" />
     </task>
     <task id="LOCAL-00001" summary="Normalization of inputs">
       <created>1679844236890</created>
